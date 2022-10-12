@@ -18,7 +18,7 @@ export const outlined = () => (
   <MuiButton variant="outlined">Outlined</MuiButton>
 );
 
-text.storyName = 'Text input';
+text.storyName = 'Text button';
 
 const Template = (args) => <MuiButton {...args} />;
 
