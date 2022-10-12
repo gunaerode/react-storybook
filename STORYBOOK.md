@@ -10,6 +10,6 @@
 ---
 
 -   **STEPS:**
-    - ```git clone```
+    - ```git clone https://github.com/gunaerode/react-storybook.git```
     - ```npm i```
     - ```npm run storybook```
